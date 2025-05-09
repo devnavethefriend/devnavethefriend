@@ -1,8 +1,7 @@
 Hello, 
 
 I'm @devnavethefriend, a Python programmer who builds tools, automates data tasks, and writes backend logic that holds up over time. I focus on structure, accuracy, and writing code that solves practical problems without unnecessary complexity.
-
-I've worked on dashboards, data pipelines, and lightweight applications using Python, pandas, Flask, Dash, and SQL. My main concern is keeping things maintainable and useful — especially when it comes to data handling, reporting, and backend workflows.
+I've worked on dashboards, data pipelines, and lightweight applications using Python, pandas, Flask, Dash, and SQL. My main concern is keeping things maintainable and useful especially when it comes to data handling, reporting, and backend workflows.
 
 # Tools and Languages I Use
 
@@ -19,7 +18,7 @@ A set of scripts for cleaning, organizing, and formatting Excel files automatica
 
 
 # Currently Working On 
-Building a backend template using Flask, SQLAlchemy, and modular routing — designed for small to mid-scale APIs with clear folder structure and service logic.
+Building a backend template using Flask, SQLAlchemy, and modular routing designed for small to mid-scale APIs with clear folder structure and service logic.
 
 
 # Availability
